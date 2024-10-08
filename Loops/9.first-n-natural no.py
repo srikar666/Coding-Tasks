@@ -1,0 +1,1 @@
+s=int (input("enter a natural number"))
