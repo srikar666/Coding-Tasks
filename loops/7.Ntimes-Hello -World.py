@@ -10,7 +10,7 @@
 # Hello World
 n = int(input())
 counter = 0
-while count <n:
+while counter <n:
   print("Hello"+ " "+" World ")
   counter+=1
 
