@@ -8,3 +8,9 @@
 # Hello World
 # Hello World
 # Hello World
+n = int(input())
+counter = 0
+while count <n:
+  print("Hello"+ " "+" World ")
+  counter+=1
+
