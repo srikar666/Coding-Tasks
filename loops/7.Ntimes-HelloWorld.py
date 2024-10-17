@@ -13,4 +13,10 @@ counter = 0
 while counter <n:
   print("Hello"+ " "+" World ")
   counter+=1
+exit()
+n = int(input())
+for i in range(n):
+  print("Hello"+ " "+" World ")
+
+
 
