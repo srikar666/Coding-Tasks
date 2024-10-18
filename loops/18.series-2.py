@@ -6,8 +6,10 @@
 # 2 5 8 11 14 17 20
 # Explanation: The series starts with 2 and every time adds 3 to get the next term.
 n = int(input("Enter an integer n: "))
-for i in range(2,2*n+3,3):
+for i in range(n):
+    term=2+3*i;
+    
     #alterbative:for i in range(3, 3 + 2 * n, 2): 
     
-    print(i, end =" ")
+    print(term, end =" ")
 exit()
